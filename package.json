@@ -2,9 +2,9 @@
   "name": "exchange-rates",
   "version": "1.0.0",
   "description": "Exchange rates application",
-  "main": "index.php",
+  "main": "exchange-rates.php",
   "scripts": {
-    "start": "php index.php"
+    "start": "php exchange-rates.php"
   },
   "author": "",
   "license": "ISC"
