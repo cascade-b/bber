@@ -1,0 +1,11 @@
+{
+  "name": "exchange-rates",
+  "version": "1.0.0",
+  "description": "Exchange rates application",
+  "main": "exchange-rates.php",
+  "scripts": {
+    "start": "php exchange-rates.php"
+  },
+  "author": "",
+  "license": "ISC"
+}
