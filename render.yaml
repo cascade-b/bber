@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: exchange-rates
-    runtime: php
-    buildCommand: npm install
-    startCommand: php exchange-rates.php
