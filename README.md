@@ -1,10 +1,10 @@
-# Bangkok Bank Exchange Rates WordPress Plugin
+# Exchange Rates WordPress Plugin
 
-A WordPress plugin that displays exchange rates from Bangkok Bank with a modern GUI interface and currency calculator.
+A WordPress plugin that displays exchange rates with a currency calculator.
 
 ## Features
 
-- Live exchange rates from Bangkok Bank
+- Live exchange rates
 - Configurable markup percentage on rates
 - Modern, responsive design
 - Currency converter with all available currencies
@@ -42,7 +42,7 @@ The plugin provides three shortcodes:
 ### Shortcode Attributes
 
 #### [bber_rates]
-- `title` - Custom title for the rates table (default: "Bangkok Bank Exchange Rates")
+- `title` - Custom title for the rates table (default: "Exchange Rates")
 - `show_last_updated` - Show/hide last updated timestamp (default: "yes")
 
 Example:
